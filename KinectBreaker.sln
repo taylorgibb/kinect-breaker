@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectBreaker.Web", "KinectBreaker.Web\KinectBreaker.Web.csproj", "{4990C003-3AF0-484B-98D5-10A39788E816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectBreaker.Harness", "KinectBreaker.Harness\KinectBreaker.Harness.csproj", "{833612B7-84E2-4692-B491-F9739049A70B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4990C003-3AF0-484B-98D5-10A39788E816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4990C003-3AF0-484B-98D5-10A39788E816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4990C003-3AF0-484B-98D5-10A39788E816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4990C003-3AF0-484B-98D5-10A39788E816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{833612B7-84E2-4692-B491-F9739049A70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833612B7-84E2-4692-B491-F9739049A70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833612B7-84E2-4692-B491-F9739049A70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833612B7-84E2-4692-B491-F9739049A70B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

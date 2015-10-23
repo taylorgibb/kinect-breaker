@@ -1,0 +1,37 @@
+﻿body {
+    margin: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+}
+
+#wrapper {
+    height: 100%;
+    width: 100%;
+}
+
+.control-section {
+  width: 50%;
+  height: 100%;
+  z-index: 2;
+  position: absolute;
+  top: 0;
+}
+
+#left-hand-side {
+  float: left;
+  left: 0;
+}
+
+#right-hand-side {
+  float: right;
+  right: 0;
+}
+
+
+#kinectCanvas {
+    background-color: #1D1D1D;
+    vertical-align: top;
+    position: relative;
+    z-index: 1;
+}
